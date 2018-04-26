@@ -1,5 +1,8 @@
 # babel-plugin-react-component-data-attribute
 
+Fork of https://github.com/lemonmade/babel-plugin-react-component-data-attribute
+that adds Babel 7 compatibility.
+
 This plugin adds a `data-component` attribute to top-level DOM elements rendered by your component. This can be useful for constructing a high-level component hierarchy outside the context of your React application (for instance, for the purposes of click tracking).
 
 ## Example
